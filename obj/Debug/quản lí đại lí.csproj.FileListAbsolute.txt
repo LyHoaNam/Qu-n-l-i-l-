@@ -1,0 +1,2 @@
+c:\users\cuhoa_000\documents\visual studio 2015\Projects\quản lí đại lí\quản lí đại lí\bin\Debug\quản lí đại lí.exe.config
+F:\học tập\HỌC KÌ 4\Nhập môn công nghệ phần mền\đồ án\code\quản lí đại lí\quản lí đại lí\bin\Debug\quản lí đại lí.exe.config
